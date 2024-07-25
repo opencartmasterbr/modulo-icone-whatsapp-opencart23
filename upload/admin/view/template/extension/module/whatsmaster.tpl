@@ -102,8 +102,7 @@
                 <?php } ?>
               </select>
 			 <br>
-			  <p><?php echo $text_terms; ?> <a href="https://www.opencartmaster.com.br/<?php echo $text_l; ?>" target="_blank"><?php echo $text_t; ?></a></p>
-            </div>
+			       </div>
           </div> 
          </div>
            
